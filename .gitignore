@@ -1,0 +1,7 @@
+.git/
+.idea/
+build/
+yarn.lock
+node_modules/
+.DS_Store
+.vscode

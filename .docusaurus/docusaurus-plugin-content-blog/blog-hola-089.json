@@ -1,0 +1,17 @@
+{
+  "permalink": "/blog/hola",
+  "source": "@site/blog/2019-08-19-hola.md",
+  "description": "Zinnion platform for beta testers users!",
+  "date": "2019-08-19T06:00:00.000Z",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "zinnion",
+      "permalink": "/blog/tags/zinnion"
+    }
+  ],
+  "title": "Hola"
+}

@@ -1,7 +1,7 @@
 {
   "main": [
     "/main.20b45c42a33f7630e9e9.css",
-    "/main.95ad1f25017165cd5aa7.js"
+    "/main.6cc70116321ca062394c.js"
   ],
   "component---site-src-pages-index-jsc-4-f-f99": [
     "/component---site-src-pages-index-jsc-4-f-f99.84a73abf8477829e3fd3.css",
@@ -30,7 +30,7 @@
     "/component---theme-doc-legacy-page-9-e-7-ca5.73771d44850a604cec7c.js"
   ],
   "docsMetadata---docs-0-f-2-058": [
-    "/docsMetadata---docs-0-f-2-058.51c6f8c0b4fd6f6c3ea1.js"
+    "/docsMetadata---docs-0-f-2-058.166ec1ddcd69f1f3caa5.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
     "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
@@ -48,17 +48,17 @@
   "metadata---docs-architecture-71-d-8aa": [
     "/metadata---docs-architecture-71-d-8aa.6ea2251f8d4219dfe138.js"
   ],
-  "content---docs-basic-principals-810-856": [
-    "/content---docs-basic-principals-810-856.e51bf6c980c507f5db26.js"
-  ],
-  "metadata---docs-basic-principals-74-a-441": [
-    "/metadata---docs-basic-principals-74-a-441.db0c19cadf0ccf6e69b2.js"
-  ],
   "content---docs-basic-tutorial-817-d0c": [
-    "/content---docs-basic-tutorial-817-d0c.5335d6015c0575e6c709.js"
+    "/content---docs-basic-tutorial-817-d0c.bad4e1317328f66b3719.js"
   ],
   "metadata---docs-basic-tutorial-7-dc-1be": [
-    "/metadata---docs-basic-tutorial-7-dc-1be.a2d0e40030ed25999cc4.js"
+    "/metadata---docs-basic-tutorial-7-dc-1be.88b37fd10d352dab72ac.js"
+  ],
+  "content---docs-basic-principals-810-856": [
+    "/content---docs-basic-principals-810-856.e7fff36b1b5d06def43c.js"
+  ],
+  "metadata---docs-basic-principals-74-a-441": [
+    "/metadata---docs-basic-principals-74-a-441.c4668b6d32ff862fefca.js"
   ],
   "content---docs-deals-examples-466-bf1": [
     "/content---docs-deals-examples-466-bf1.d79901d3e120fd360393.js"
@@ -90,17 +90,17 @@
   "metadata---docs-doc-3659-189": [
     "/metadata---docs-doc-3659-189.b4e619ee9bbf5a76971d.js"
   ],
-  "content---docs-events-referencef-3-c-b7c": [
-    "/content---docs-events-referencef-3-c-b7c.5d588a7b22510bdc0bc0.js"
-  ],
-  "metadata---docs-events-reference-9-c-2-df2": [
-    "/metadata---docs-events-reference-9-c-2-df2.90879d801ee9b1dca8dd.js"
-  ],
   "content---docs-enumerators-8-a-0-6e0": [
-    "/content---docs-enumerators-8-a-0-6e0.2d883f853275fd9c644d.js"
+    "/content---docs-enumerators-8-a-0-6e0.f594d1b4b3ad5d067349.js"
   ],
   "metadata---docs-enumerators-5-f-4-df7": [
-    "/metadata---docs-enumerators-5-f-4-df7.2aa24575d916d9084d17.js"
+    "/metadata---docs-enumerators-5-f-4-df7.46d562a4a0d6dde939f2.js"
+  ],
+  "content---docs-events-referencef-3-c-b7c": [
+    "/content---docs-events-referencef-3-c-b7c.16fba8c620c6fa835acc.js"
+  ],
+  "metadata---docs-events-reference-9-c-2-df2": [
+    "/metadata---docs-events-reference-9-c-2-df2.1897fa68ed969ee5bf1e.js"
   ],
   "content---docs-functions-reference-062-bc7": [
     "/content---docs-functions-reference-062-bc7.da0880a274d2bc4ac3a2.js"
@@ -162,17 +162,17 @@
   "metadata---docs-orders-195-7ef": [
     "/metadata---docs-orders-195-7ef.f221c26e91415095065d.js"
   ],
-  "content---docs-positions-986-cfa": [
-    "/content---docs-positions-986-cfa.a09d7de98f52953560b3.js"
-  ],
-  "metadata---docs-positionsfc-5-661": [
-    "/metadata---docs-positionsfc-5-661.e4e181a88cfbff1c8b2b.js"
-  ],
   "content---docs-positions-examples-538-84f": [
-    "/content---docs-positions-examples-538-84f.a8deb069cab02bff66ae.js"
+    "/content---docs-positions-examples-538-84f.2df253e73df68177fac3.js"
   ],
   "metadata---docs-positions-examplesd-4-b-f51": [
-    "/metadata---docs-positions-examplesd-4-b-f51.74653ebd40e04034f983.js"
+    "/metadata---docs-positions-examplesd-4-b-f51.1cc5f0e7b1bac947afbf.js"
+  ],
+  "content---docs-positions-986-cfa": [
+    "/content---docs-positions-986-cfa.14de0476bc61dac7f44d.js"
+  ],
+  "metadata---docs-positionsfc-5-661": [
+    "/metadata---docs-positionsfc-5-661.07b5b7a3b04b487d3440.js"
   ],
   "content---docs-privacy-policy-8-c-5-13f": [
     "/content---docs-privacy-policy-8-c-5-13f.9626b359f0e4bfbe7653.js"
@@ -186,17 +186,17 @@
   "metadata---docs-quick-startcf-9-ad0": [
     "/metadata---docs-quick-startcf-9-ad0.3adf3abcc89c3203647d.js"
   ],
-  "content---docs-return-codes-1-ed-d66": [
-    "/content---docs-return-codes-1-ed-d66.f73b85110632ad635a03.js"
-  ],
-  "metadata---docs-return-codes-89-d-250": [
-    "/metadata---docs-return-codes-89-d-250.63a97c6475cbbf2ce173.js"
-  ],
   "content---docs-structuresfa-4-9df": [
-    "/content---docs-structuresfa-4-9df.5772b03f9288ccf62220.js"
+    "/content---docs-structuresfa-4-9df.dbcc35fa9fa8a167106a.js"
   ],
   "metadata---docs-structurese-0-d-a33": [
-    "/metadata---docs-structurese-0-d-a33.f9359cbecf512a9e3c16.js"
+    "/metadata---docs-structurese-0-d-a33.bc72b1541a2a9f4f35f3.js"
+  ],
+  "content---docs-return-codes-1-ed-d66": [
+    "/content---docs-return-codes-1-ed-d66.68bd49179848dcdf012e.js"
+  ],
+  "metadata---docs-return-codes-89-d-250": [
+    "/metadata---docs-return-codes-89-d-250.c34e93a8f3fd1dddf9c1.js"
   ],
   "content---docs-trades-examplesdad-68b": [
     "/content---docs-trades-examplesdad-68b.ac2a0eb5a1c8ea1056ce.js"
@@ -204,17 +204,17 @@
   "metadata---docs-trades-examplesc-54-157": [
     "/metadata---docs-trades-examplesc-54-157.eb1d2b5f84418d8a676d.js"
   ],
-  "content---docs-trades-757-c61": [
-    "/content---docs-trades-757-c61.98601e51f9230b907643.js"
-  ],
-  "metadata---docs-trades-61-c-253": [
-    "/metadata---docs-trades-61-c-253.01fde83d68c21aab905a.js"
-  ],
   "content---docs-terms-of-use-0-f-8-3d3": [
-    "/content---docs-terms-of-use-0-f-8-3d3.4d65f5a56dd217ec4b3d.js"
+    "/content---docs-terms-of-use-0-f-8-3d3.638c359aff72ebfe9dae.js"
   ],
   "metadata---docs-terms-of-use-4-b-3-73c": [
-    "/metadata---docs-terms-of-use-4-b-3-73c.39be67753276aa3b2487.js"
+    "/metadata---docs-terms-of-use-4-b-3-73c.bf9e5c4703a64c45ec9b.js"
+  ],
+  "content---docs-trades-757-c61": [
+    "/content---docs-trades-757-c61.6d375cbb6e9e4e435c11.js"
+  ],
+  "metadata---docs-trades-61-c-253": [
+    "/metadata---docs-trades-61-c-253.afab7a99b81c18529197.js"
   ],
   "content---docs-trading-reference-6-fc-b5d": [
     "/content---docs-trading-reference-6-fc-b5d.416e9c59b2664f14af5b.js"

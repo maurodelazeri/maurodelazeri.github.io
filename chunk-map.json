@@ -1,7 +1,7 @@
 {
   "main": [
     "/main.20b45c42a33f7630e9e9.css",
-    "/main.fdf74515710fcbfd0698.js"
+    "/main.1efaef5e688887b46616.js"
   ],
   "component---site-src-pages-index-jsc-4-f-f99": [
     "/component---site-src-pages-index-jsc-4-f-f99.84a73abf8477829e3fd3.css",
@@ -30,7 +30,7 @@
     "/component---theme-doc-legacy-page-9-e-7-ca5.73771d44850a604cec7c.js"
   ],
   "docsMetadata---docs-0-f-2-058": [
-    "/docsMetadata---docs-0-f-2-058.6b30c7b4caba83852bef.js"
+    "/docsMetadata---docs-0-f-2-058.cbde6feeea7acca29e5f.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
     "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
@@ -60,17 +60,17 @@
   "metadata---docs-basic-principals-74-a-441": [
     "/metadata---docs-basic-principals-74-a-441.c4668b6d32ff862fefca.js"
   ],
-  "content---docs-deals-examples-466-bf1": [
-    "/content---docs-deals-examples-466-bf1.d79901d3e120fd360393.js"
-  ],
-  "metadata---docs-deals-examples-125-d5e": [
-    "/metadata---docs-deals-examples-125-d5e.7ff2182ee914bf457698.js"
-  ],
   "content---docs-deals-24-b-8c8": [
-    "/content---docs-deals-24-b-8c8.bf08e0775c2a67a466ba.js"
+    "/content---docs-deals-24-b-8c8.c4d1279749c414a4d44f.js"
   ],
   "metadata---docs-deals-0-e-3-a6f": [
-    "/metadata---docs-deals-0-e-3-a6f.d6362160c62876e6bc6f.js"
+    "/metadata---docs-deals-0-e-3-a6f.1cb655fe2400a0bdb688.js"
+  ],
+  "content---docs-deals-examples-466-bf1": [
+    "/content---docs-deals-examples-466-bf1.fdcb6f5c36cbe76c4ef7.js"
+  ],
+  "metadata---docs-deals-examples-125-d5e": [
+    "/metadata---docs-deals-examples-125-d5e.dfc473e51248b1fb5241.js"
   ],
   "content---docs-doc-1-b-2-f-e80": [
     "/content---docs-doc-1-b-2-f-e80.8b35fa846e969886605c.js"
@@ -84,17 +84,17 @@
   "metadata---docs-doc-2159-575": [
     "/metadata---docs-doc-2159-575.b148b5973beb40948c0c.js"
   ],
-  "content---docs-doc-3616-40c": [
-    "/content---docs-doc-3616-40c.66253f899372e95b75b9.js"
-  ],
-  "metadata---docs-doc-3659-189": [
-    "/metadata---docs-doc-3659-189.b4e619ee9bbf5a76971d.js"
-  ],
   "content---docs-enumerators-8-a-0-6e0": [
-    "/content---docs-enumerators-8-a-0-6e0.f594d1b4b3ad5d067349.js"
+    "/content---docs-enumerators-8-a-0-6e0.4cfd4fcb8ef537228cfd.js"
   ],
   "metadata---docs-enumerators-5-f-4-df7": [
-    "/metadata---docs-enumerators-5-f-4-df7.46d562a4a0d6dde939f2.js"
+    "/metadata---docs-enumerators-5-f-4-df7.7a80ad17bdc2e199a633.js"
+  ],
+  "content---docs-doc-3616-40c": [
+    "/content---docs-doc-3616-40c.36eb58004840986be20e.js"
+  ],
+  "metadata---docs-doc-3659-189": [
+    "/metadata---docs-doc-3659-189.ec376f83de36014f8808.js"
   ],
   "content---docs-events-referencef-3-c-b7c": [
     "/content---docs-events-referencef-3-c-b7c.16fba8c620c6fa835acc.js"
@@ -210,17 +210,17 @@
   "metadata---docs-terms-of-use-4-b-3-73c": [
     "/metadata---docs-terms-of-use-4-b-3-73c.bf9e5c4703a64c45ec9b.js"
   ],
-  "content---docs-trades-757-c61": [
-    "/content---docs-trades-757-c61.6d375cbb6e9e4e435c11.js"
-  ],
-  "metadata---docs-trades-61-c-253": [
-    "/metadata---docs-trades-61-c-253.afab7a99b81c18529197.js"
-  ],
   "content---docs-trading-reference-6-fc-b5d": [
-    "/content---docs-trading-reference-6-fc-b5d.416e9c59b2664f14af5b.js"
+    "/content---docs-trading-reference-6-fc-b5d.2b9616b80341d042d324.js"
   ],
   "metadata---docs-trading-referenceb-25-21c": [
-    "/metadata---docs-trading-referenceb-25-21c.110644fc9f47d37f506a.js"
+    "/metadata---docs-trading-referenceb-25-21c.9a1995535948aa2fc179.js"
+  ],
+  "content---docs-trades-757-c61": [
+    "/content---docs-trades-757-c61.c95132492d454c761a63.js"
+  ],
+  "metadata---docs-trades-61-c-253": [
+    "/metadata---docs-trades-61-c-253.ea734922d962829eb703.js"
   ],
   "content---docs-troubleshooting-9-d-9-0bf": [
     "/content---docs-troubleshooting-9-d-9-0bf.c58034930261e3f9a4f9.js"

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[79],{104:function(e){e.exports=JSON.parse('{"id":"trades","title":"Trades","hide_title":true,"sidebar_label":"Trades","description":"## Trades","source":"@site/docs/trades.md","permalink":"/docs/trades"}')}}]);

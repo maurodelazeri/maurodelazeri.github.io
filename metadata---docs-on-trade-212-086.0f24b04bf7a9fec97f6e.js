@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{78:function(e){e.exports=JSON.parse('{"id":"on-trade","title":"OnTrade","hide_title":true,"sidebar_label":"OnTrade","description":"## OnTrade","source":"@site/docs/on-trade.md","permalink":"/docs/on-trade"}')}}]);

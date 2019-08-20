@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[64],{68:function(e){e.exports=JSON.parse('{"id":"on-calculate","title":"OnCalculate","hide_title":true,"sidebar_label":"OnCalculate","description":"## OnCalculate","source":"@site/docs/on-calculate.md","permalink":"/docs/on-calculate"}')}}]);

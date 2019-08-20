@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[76],{92:function(e){e.exports=JSON.parse('{"id":"return-codes","title":"Return Codes","sidebar_label":"Retcodes","description":"## Retcodes","source":"@site/docs/return-codes.md","permalink":"/docs/return-codes"}')}}]);

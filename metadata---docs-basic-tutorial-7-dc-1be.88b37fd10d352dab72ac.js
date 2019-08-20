@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[54],{50:function(i){i.exports=JSON.parse('{"id":"basic-tutorial","title":"Basic Tutorial","hide_title":true,"sidebar_label":"Basic Tutorial","description":"# Basic Tutorial","source":"@site/docs/basic-tutorial.md","permalink":"/docs/basic-tutorial"}')}}]);

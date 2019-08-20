@@ -357,15 +357,15 @@
       "css": [
         {
           "file": "component---site-src-pages-index-jsc-4-f-f99.84a73abf8477829e3fd3.css",
-          "hash": "56cce6f9cd2558d6b2d1",
+          "hash": "df987d2950fe4331611b",
           "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.84a73abf8477829e3fd3.css"
         }
       ],
       "js": [
         {
-          "file": "component---site-src-pages-index-jsc-4-f-f99.52f780968eb4a87a61ca.js",
-          "hash": "56cce6f9cd2558d6b2d1",
-          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.52f780968eb4a87a61ca.js"
+          "file": "component---site-src-pages-index-jsc-4-f-f99.1c961b09c788ceb07990.js",
+          "hash": "df987d2950fe4331611b",
+          "publicPath": "/component---site-src-pages-index-jsc-4-f-f99.1c961b09c788ceb07990.js"
         }
       ]
     },
@@ -476,36 +476,36 @@
     "14": {
       "js": [
         {
-          "file": "content---docs-basic-principals-810-856.e7fff36b1b5d06def43c.js",
-          "hash": "b2e7fff0c1a93675b6f7",
-          "publicPath": "/content---docs-basic-principals-810-856.e7fff36b1b5d06def43c.js"
+          "file": "content---docs-basic-principals-810-856.e51bf6c980c507f5db26.js",
+          "hash": "d8a1b309e05cbdee30db",
+          "publicPath": "/content---docs-basic-principals-810-856.e51bf6c980c507f5db26.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---docs-basic-tutorial-817-d0c.bad4e1317328f66b3719.js",
-          "hash": "94535b1d6218379752c7",
-          "publicPath": "/content---docs-basic-tutorial-817-d0c.bad4e1317328f66b3719.js"
+          "file": "content---docs-basic-tutorial-817-d0c.5335d6015c0575e6c709.js",
+          "hash": "7865b1e8d233c9c7c468",
+          "publicPath": "/content---docs-basic-tutorial-817-d0c.5335d6015c0575e6c709.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---docs-deals-24-b-8c8.c4d1279749c414a4d44f.js",
-          "hash": "48f701a4816ffa0419fa",
-          "publicPath": "/content---docs-deals-24-b-8c8.c4d1279749c414a4d44f.js"
+          "file": "content---docs-deals-24-b-8c8.bf08e0775c2a67a466ba.js",
+          "hash": "7c6ec2248577cf2698b6",
+          "publicPath": "/content---docs-deals-24-b-8c8.bf08e0775c2a67a466ba.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---docs-deals-examples-466-bf1.fdcb6f5c36cbe76c4ef7.js",
-          "hash": "7da8ed8ad108c6d1a540",
-          "publicPath": "/content---docs-deals-examples-466-bf1.fdcb6f5c36cbe76c4ef7.js"
+          "file": "content---docs-deals-examples-466-bf1.d79901d3e120fd360393.js",
+          "hash": "b1ebc8c7dead743d9145",
+          "publicPath": "/content---docs-deals-examples-466-bf1.d79901d3e120fd360393.js"
         }
       ]
     },
@@ -530,18 +530,18 @@
     "20": {
       "js": [
         {
-          "file": "content---docs-doc-3616-40c.36eb58004840986be20e.js",
-          "hash": "5d12b9e0a181c4f8409b",
-          "publicPath": "/content---docs-doc-3616-40c.36eb58004840986be20e.js"
+          "file": "content---docs-doc-3616-40c.66253f899372e95b75b9.js",
+          "hash": "ebf1b34a9332fb510591",
+          "publicPath": "/content---docs-doc-3616-40c.66253f899372e95b75b9.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "content---docs-enumerators-8-a-0-6e0.4cfd4fcb8ef537228cfd.js",
-          "hash": "9b310fc95007b889f2f0",
-          "publicPath": "/content---docs-enumerators-8-a-0-6e0.4cfd4fcb8ef537228cfd.js"
+          "file": "content---docs-enumerators-8-a-0-6e0.f594d1b4b3ad5d067349.js",
+          "hash": "0c49cf8dcc01619fb58c",
+          "publicPath": "/content---docs-enumerators-8-a-0-6e0.f594d1b4b3ad5d067349.js"
         }
       ]
     },
@@ -710,9 +710,9 @@
     "40": {
       "js": [
         {
-          "file": "content---docs-trades-757-c61.c95132492d454c761a63.js",
-          "hash": "b6f9f3774ed1275fa143",
-          "publicPath": "/content---docs-trades-757-c61.c95132492d454c761a63.js"
+          "file": "content---docs-trades-757-c61.6d375cbb6e9e4e435c11.js",
+          "hash": "770797949ba037c4619a",
+          "publicPath": "/content---docs-trades-757-c61.6d375cbb6e9e4e435c11.js"
         }
       ]
     },
@@ -728,9 +728,9 @@
     "42": {
       "js": [
         {
-          "file": "content---docs-trading-reference-6-fc-b5d.2b9616b80341d042d324.js",
-          "hash": "8ebccd770f5ea715502d",
-          "publicPath": "/content---docs-trading-reference-6-fc-b5d.2b9616b80341d042d324.js"
+          "file": "content---docs-trading-reference-6-fc-b5d.416e9c59b2664f14af5b.js",
+          "hash": "83889003e76303b54dd0",
+          "publicPath": "/content---docs-trading-reference-6-fc-b5d.416e9c59b2664f14af5b.js"
         }
       ]
     },
@@ -755,9 +755,9 @@
     "45": {
       "js": [
         {
-          "file": "docsMetadata---docs-0-f-2-058.cbde6feeea7acca29e5f.js",
-          "hash": "74cecc832cd8cabf103c",
-          "publicPath": "/docsMetadata---docs-0-f-2-058.cbde6feeea7acca29e5f.js"
+          "file": "docsMetadata---docs-0-f-2-058.c3c15e9455da63c79969.js",
+          "hash": "74208e2ee9fbd8223b9f",
+          "publicPath": "/docsMetadata---docs-0-f-2-058.c3c15e9455da63c79969.js"
         }
       ]
     },
@@ -765,15 +765,15 @@
       "css": [
         {
           "file": "main.20b45c42a33f7630e9e9.css",
-          "hash": "847e4e3b3c76c39fc455",
+          "hash": "83dee966c08a102fc329",
           "publicPath": "/main.20b45c42a33f7630e9e9.css"
         }
       ],
       "js": [
         {
-          "file": "main.1efaef5e688887b46616.js",
-          "hash": "847e4e3b3c76c39fc455",
-          "publicPath": "/main.1efaef5e688887b46616.js"
+          "file": "main.f9034f41e9033e985aa6.js",
+          "hash": "83dee966c08a102fc329",
+          "publicPath": "/main.f9034f41e9033e985aa6.js"
         }
       ]
     },
@@ -834,36 +834,36 @@
     "53": {
       "js": [
         {
-          "file": "metadata---docs-basic-principals-74-a-441.c4668b6d32ff862fefca.js",
-          "hash": "3c0b95c897f8fff3ec18",
-          "publicPath": "/metadata---docs-basic-principals-74-a-441.c4668b6d32ff862fefca.js"
+          "file": "metadata---docs-basic-principals-74-a-441.db0c19cadf0ccf6e69b2.js",
+          "hash": "9a414ed4fb13db06e74b",
+          "publicPath": "/metadata---docs-basic-principals-74-a-441.db0c19cadf0ccf6e69b2.js"
         }
       ]
     },
     "54": {
       "js": [
         {
-          "file": "metadata---docs-basic-tutorial-7-dc-1be.88b37fd10d352dab72ac.js",
-          "hash": "d9e0f2ac797c0a082470",
-          "publicPath": "/metadata---docs-basic-tutorial-7-dc-1be.88b37fd10d352dab72ac.js"
+          "file": "metadata---docs-basic-tutorial-7-dc-1be.a2d0e40030ed25999cc4.js",
+          "hash": "f318e22b3ff3b412e763",
+          "publicPath": "/metadata---docs-basic-tutorial-7-dc-1be.a2d0e40030ed25999cc4.js"
         }
       ]
     },
     "55": {
       "js": [
         {
-          "file": "metadata---docs-deals-0-e-3-a6f.1cb655fe2400a0bdb688.js",
-          "hash": "d0d502aa09a6fdb1e0ce",
-          "publicPath": "/metadata---docs-deals-0-e-3-a6f.1cb655fe2400a0bdb688.js"
+          "file": "metadata---docs-deals-0-e-3-a6f.d6362160c62876e6bc6f.js",
+          "hash": "c9e995b2391993495e91",
+          "publicPath": "/metadata---docs-deals-0-e-3-a6f.d6362160c62876e6bc6f.js"
         }
       ]
     },
     "56": {
       "js": [
         {
-          "file": "metadata---docs-deals-examples-125-d5e.dfc473e51248b1fb5241.js",
-          "hash": "048a5681c2ab9f59b26c",
-          "publicPath": "/metadata---docs-deals-examples-125-d5e.dfc473e51248b1fb5241.js"
+          "file": "metadata---docs-deals-examples-125-d5e.7ff2182ee914bf457698.js",
+          "hash": "5f3ea3a27e9cfbd1afc6",
+          "publicPath": "/metadata---docs-deals-examples-125-d5e.7ff2182ee914bf457698.js"
         }
       ]
     },
@@ -888,18 +888,18 @@
     "59": {
       "js": [
         {
-          "file": "metadata---docs-doc-3659-189.ec376f83de36014f8808.js",
-          "hash": "1b01ca10ea5f5f33455d",
-          "publicPath": "/metadata---docs-doc-3659-189.ec376f83de36014f8808.js"
+          "file": "metadata---docs-doc-3659-189.b4e619ee9bbf5a76971d.js",
+          "hash": "f57d6bfd4d0e1740e840",
+          "publicPath": "/metadata---docs-doc-3659-189.b4e619ee9bbf5a76971d.js"
         }
       ]
     },
     "60": {
       "js": [
         {
-          "file": "metadata---docs-enumerators-5-f-4-df7.7a80ad17bdc2e199a633.js",
-          "hash": "51eb2eb9b5b16d9eff97",
-          "publicPath": "/metadata---docs-enumerators-5-f-4-df7.7a80ad17bdc2e199a633.js"
+          "file": "metadata---docs-enumerators-5-f-4-df7.46d562a4a0d6dde939f2.js",
+          "hash": "b3bd973b5f189fd5c5c5",
+          "publicPath": "/metadata---docs-enumerators-5-f-4-df7.46d562a4a0d6dde939f2.js"
         }
       ]
     },
@@ -1068,9 +1068,9 @@
     "79": {
       "js": [
         {
-          "file": "metadata---docs-trades-61-c-253.ea734922d962829eb703.js",
-          "hash": "3a908d40cf41c78cb4c9",
-          "publicPath": "/metadata---docs-trades-61-c-253.ea734922d962829eb703.js"
+          "file": "metadata---docs-trades-61-c-253.afab7a99b81c18529197.js",
+          "hash": "46447d11a726c514ac0d",
+          "publicPath": "/metadata---docs-trades-61-c-253.afab7a99b81c18529197.js"
         }
       ]
     },
@@ -1086,9 +1086,9 @@
     "81": {
       "js": [
         {
-          "file": "metadata---docs-trading-referenceb-25-21c.9a1995535948aa2fc179.js",
-          "hash": "c00e6dc981ef974596d1",
-          "publicPath": "/metadata---docs-trading-referenceb-25-21c.9a1995535948aa2fc179.js"
+          "file": "metadata---docs-trading-referenceb-25-21c.110644fc9f47d37f506a.js",
+          "hash": "980c4517e0af43c8039e",
+          "publicPath": "/metadata---docs-trading-referenceb-25-21c.110644fc9f47d37f506a.js"
         }
       ]
     },
@@ -1113,9 +1113,9 @@
     "84": {
       "js": [
         {
-          "file": "runtime~main.37d3fa8797099f484fb4.js",
-          "hash": "0a0e8b3123e0cbc6ff75",
-          "publicPath": "/runtime~main.37d3fa8797099f484fb4.js"
+          "file": "runtime~main.d62859bf8f60d13ee4d9.js",
+          "hash": "930dbf0377459a161f26",
+          "publicPath": "/runtime~main.d62859bf8f60d13ee4d9.js"
         }
       ]
     },

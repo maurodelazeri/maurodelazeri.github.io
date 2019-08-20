@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[73],{88:function(i){i.exports=JSON.parse('{"id":"positions","title":"Positions","hide_title":true,"sidebar_label":"Positions","description":"## Positions","source":"@site/docs/positions.md","permalink":"/docs/positions"}')}}]);

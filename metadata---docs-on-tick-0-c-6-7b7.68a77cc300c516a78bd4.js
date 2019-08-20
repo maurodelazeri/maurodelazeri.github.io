@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[67],{74:function(i){i.exports=JSON.parse('{"id":"on-tick","title":"OnTick","hide_title":true,"sidebar_label":"OnTick","description":"## OnTick","source":"@site/docs/on-tick.md","permalink":"/docs/on-tick"}')}}]);

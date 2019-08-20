@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{72:function(n){n.exports=JSON.parse('{"id":"on-position-change","title":"OnPositionChange","hide_title":true,"sidebar_label":"OnPositionChange","description":"## OnPositionChange","source":"@site/docs/on-position-change.md","permalink":"/docs/on-position-change"}')}}]);

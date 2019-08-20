@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{82:function(e){e.exports=JSON.parse('{"id":"orders","title":"Orders","hide_title":true,"sidebar_label":"Orders","description":"## Orders","source":"@site/docs/orders.md","permalink":"/docs/orders"}')}}]);

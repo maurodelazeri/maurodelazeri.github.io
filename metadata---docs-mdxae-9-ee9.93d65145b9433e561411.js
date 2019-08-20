@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[82],{52:function(e){e.exports=JSON.parse('{"id":"mdx","title":"Powered by MDX","description":"```jsx live","source":"@site/docs/mdx.md","permalink":"/docs/mdx"}')}}]);

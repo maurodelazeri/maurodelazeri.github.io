@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{60:function(t){t.exports=JSON.parse('{"id":"introduction/architecture","title":"Architecture","hide_title":true,"sidebar_label":"Architecture","description":"## Architecture","source":"@site/docs/introduction/architecture.md","permalink":"/docs/introduction/architecture"}')}}]);

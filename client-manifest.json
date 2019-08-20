@@ -464,216 +464,216 @@
     "12": {
       "js": [
         {
-          "file": "content---docs-api-account-accout-reference-161-2a8.21afe4e2b23906edc1eb.js",
-          "hash": "c113c9308444e7f378f9",
-          "publicPath": "/content---docs-api-account-accout-reference-161-2a8.21afe4e2b23906edc1eb.js"
+          "file": "content---docs-api-account-accout-reference-161-2a8.4285e9d53e788466f1a9.js",
+          "hash": "8631ded7187b4227e1ef",
+          "publicPath": "/content---docs-api-account-accout-reference-161-2a8.4285e9d53e788466f1a9.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "content---docs-api-events-events-reference-2-fd-ab7.e76cab7ec1bdbb62d059.js",
-          "hash": "3fe334e829369bb9c64c",
-          "publicPath": "/content---docs-api-events-events-reference-2-fd-ab7.e76cab7ec1bdbb62d059.js"
+          "file": "content---docs-api-events-events-reference-2-fd-ab7.db640f5b20a4ed6c118c.js",
+          "hash": "7b508708c80b8f44d30c",
+          "publicPath": "/content---docs-api-events-events-reference-2-fd-ab7.db640f5b20a4ed6c118c.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "content---docs-api-events-on-calculatecba-3f9.c541e4d95a1688021ff8.js",
-          "hash": "747baaa00833efaa191b",
-          "publicPath": "/content---docs-api-events-on-calculatecba-3f9.c541e4d95a1688021ff8.js"
+          "file": "content---docs-api-events-on-calculatecba-3f9.e28c5398beb049fb1197.js",
+          "hash": "06ef8c7fb37135f07e6a",
+          "publicPath": "/content---docs-api-events-on-calculatecba-3f9.e28c5398beb049fb1197.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---docs-api-events-on-orderbook-781-142.4fe3a60af195114ffb64.js",
-          "hash": "d1a4be88fbb5530d2abe",
-          "publicPath": "/content---docs-api-events-on-orderbook-781-142.4fe3a60af195114ffb64.js"
+          "file": "content---docs-api-events-on-orderbook-781-142.6ac29d03a698984c6989.js",
+          "hash": "58a3899febd2be202ab0",
+          "publicPath": "/content---docs-api-events-on-orderbook-781-142.6ac29d03a698984c6989.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---docs-api-events-on-position-changeea-7-ebc.454d48005662124ab3d9.js",
-          "hash": "b9783ce21a9ad228a86b",
-          "publicPath": "/content---docs-api-events-on-position-changeea-7-ebc.454d48005662124ab3d9.js"
+          "file": "content---docs-api-events-on-position-changeea-7-ebc.5827ed60c6aa4d162fd8.js",
+          "hash": "6962545c4198cd81cb78",
+          "publicPath": "/content---docs-api-events-on-position-changeea-7-ebc.5827ed60c6aa4d162fd8.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---docs-api-events-on-tick-08-e-dbe.75e2471c2839d9d44a72.js",
-          "hash": "5d28df59cce6fa467842",
-          "publicPath": "/content---docs-api-events-on-tick-08-e-dbe.75e2471c2839d9d44a72.js"
+          "file": "content---docs-api-events-on-tick-08-e-dbe.f6613bdf1dacbebf0eac.js",
+          "hash": "b9c084431aba5442b126",
+          "publicPath": "/content---docs-api-events-on-tick-08-e-dbe.f6613bdf1dacbebf0eac.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "content---docs-api-events-on-trade-3-c-3-0e5.9c6ffa4fa799412b8f9e.js",
-          "hash": "06e5b5d2d4b120f7dae0",
-          "publicPath": "/content---docs-api-events-on-trade-3-c-3-0e5.9c6ffa4fa799412b8f9e.js"
+          "file": "content---docs-api-events-on-trade-3-c-3-0e5.0b2e823e96e7572a4b0f.js",
+          "hash": "459adaa3aebaf16137e5",
+          "publicPath": "/content---docs-api-events-on-trade-3-c-3-0e5.0b2e823e96e7572a4b0f.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "content---docs-api-events-on-trade-transaction-614-ce0.681f0e28bbfb376a5cab.js",
-          "hash": "802c67d34826df1bc3ea",
-          "publicPath": "/content---docs-api-events-on-trade-transaction-614-ce0.681f0e28bbfb376a5cab.js"
+          "file": "content---docs-api-events-on-trade-transaction-614-ce0.3fb7d6d34f641df7c893.js",
+          "hash": "03256f8f5e9b41348bde",
+          "publicPath": "/content---docs-api-events-on-trade-transaction-614-ce0.3fb7d6d34f641df7c893.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "content---docs-api-functions-functions-reference-602-65a.3cca415797107cdc452b.js",
-          "hash": "1db497b4c3e888877c03",
-          "publicPath": "/content---docs-api-functions-functions-reference-602-65a.3cca415797107cdc452b.js"
+          "file": "content---docs-api-functions-functions-reference-602-65a.7b9b4451e7517bfc35c1.js",
+          "hash": "c0cb01d4e1e9cd9188cb",
+          "publicPath": "/content---docs-api-functions-functions-reference-602-65a.7b9b4451e7517bfc35c1.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "content---docs-api-trading-deals-examplesa-2-b-3b6.9759d94cb6920780576a.js",
-          "hash": "b8fa57e833eea021d7aa",
-          "publicPath": "/content---docs-api-trading-deals-examplesa-2-b-3b6.9759d94cb6920780576a.js"
+          "file": "content---docs-api-trading-deals-examplesa-2-b-3b6.b068f7e41bac761ade6e.js",
+          "hash": "97999a4d69c698fbe9c6",
+          "publicPath": "/content---docs-api-trading-deals-examplesa-2-b-3b6.b068f7e41bac761ade6e.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "content---docs-api-trading-dealsda-2-5ef.a6fd110d287992eec06f.js",
-          "hash": "b240ddee41626406b581",
-          "publicPath": "/content---docs-api-trading-dealsda-2-5ef.a6fd110d287992eec06f.js"
+          "file": "content---docs-api-trading-dealsda-2-5ef.7fe2b7fcf99a5268246e.js",
+          "hash": "d2d8500130cf0c4cbacc",
+          "publicPath": "/content---docs-api-trading-dealsda-2-5ef.7fe2b7fcf99a5268246e.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "content---docs-api-trading-enumerators-3-b-2-a8e.89b3bc9c36ec4350a59d.js",
-          "hash": "08fc32b5795ecb07b01a",
-          "publicPath": "/content---docs-api-trading-enumerators-3-b-2-a8e.89b3bc9c36ec4350a59d.js"
+          "file": "content---docs-api-trading-enumerators-3-b-2-a8e.37ab243dce6d2c005640.js",
+          "hash": "958702b03834bf319966",
+          "publicPath": "/content---docs-api-trading-enumerators-3-b-2-a8e.37ab243dce6d2c005640.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "content---docs-api-trading-orders-44-a-3ca.5561585d2bcf2a33c20f.js",
-          "hash": "a076ed4b25b3bd78d9f3",
-          "publicPath": "/content---docs-api-trading-orders-44-a-3ca.5561585d2bcf2a33c20f.js"
+          "file": "content---docs-api-trading-orders-44-a-3ca.056aa080bcb624133a3a.js",
+          "hash": "e4e12cb12cede468012b",
+          "publicPath": "/content---docs-api-trading-orders-44-a-3ca.056aa080bcb624133a3a.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "content---docs-api-trading-orders-examples-935-6e2.73c15e0c54e3430f96d4.js",
-          "hash": "d8eedbb4ced3b87e0b70",
-          "publicPath": "/content---docs-api-trading-orders-examples-935-6e2.73c15e0c54e3430f96d4.js"
+          "file": "content---docs-api-trading-orders-examples-935-6e2.a2ff310af234b3cc89f6.js",
+          "hash": "3f7a7ae83f697a32c470",
+          "publicPath": "/content---docs-api-trading-orders-examples-935-6e2.a2ff310af234b3cc89f6.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "content---docs-api-trading-positions-62-a-7ed.2f19e30935ec6329cf2c.js",
-          "hash": "b6811bcd3d815eeab718",
-          "publicPath": "/content---docs-api-trading-positions-62-a-7ed.2f19e30935ec6329cf2c.js"
+          "file": "content---docs-api-trading-positions-62-a-7ed.594e64304670abccda3f.js",
+          "hash": "609256f7325687f14332",
+          "publicPath": "/content---docs-api-trading-positions-62-a-7ed.594e64304670abccda3f.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "content---docs-api-trading-positions-examples-693-7fb.5173e7e88cc5f7c23ccf.js",
-          "hash": "9c8df1bc13cedfb34097",
-          "publicPath": "/content---docs-api-trading-positions-examples-693-7fb.5173e7e88cc5f7c23ccf.js"
+          "file": "content---docs-api-trading-positions-examples-693-7fb.fd4041913d57e0f9e981.js",
+          "hash": "b12d959330d66f8e6bde",
+          "publicPath": "/content---docs-api-trading-positions-examples-693-7fb.fd4041913d57e0f9e981.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "content---docs-api-trading-return-codescfe-3ac.89de0c1c0cc2bf1881c9.js",
-          "hash": "532e27b5dbedcf09baf3",
-          "publicPath": "/content---docs-api-trading-return-codescfe-3ac.89de0c1c0cc2bf1881c9.js"
+          "file": "content---docs-api-trading-return-codescfe-3ac.3a99af296acbca3b3564.js",
+          "hash": "9d742da0ff79d7899e4b",
+          "publicPath": "/content---docs-api-trading-return-codescfe-3ac.3a99af296acbca3b3564.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "content---docs-api-trading-structures-2-bc-2d4.62271d212aee67712682.js",
-          "hash": "dde03794edfccdd82877",
-          "publicPath": "/content---docs-api-trading-structures-2-bc-2d4.62271d212aee67712682.js"
+          "file": "content---docs-api-trading-structures-2-bc-2d4.aa7fa0ee13df5bea88b9.js",
+          "hash": "169fe77b91c0e4bf0e48",
+          "publicPath": "/content---docs-api-trading-structures-2-bc-2d4.aa7fa0ee13df5bea88b9.js"
         }
       ]
     },
     "30": {
       "js": [
         {
-          "file": "content---docs-api-trading-trades-771-b48.168486ac5017492ef830.js",
-          "hash": "68a5dfe18b8c55fa74c8",
-          "publicPath": "/content---docs-api-trading-trades-771-b48.168486ac5017492ef830.js"
+          "file": "content---docs-api-trading-trades-771-b48.235c6760afc779ab1624.js",
+          "hash": "87576d9c1c42312a1b16",
+          "publicPath": "/content---docs-api-trading-trades-771-b48.235c6760afc779ab1624.js"
         }
       ]
     },
     "31": {
       "js": [
         {
-          "file": "content---docs-api-trading-trades-examplesda-0-0e3.53f93ba86530e13c9c93.js",
-          "hash": "b88695a24202393d57e0",
-          "publicPath": "/content---docs-api-trading-trades-examplesda-0-0e3.53f93ba86530e13c9c93.js"
+          "file": "content---docs-api-trading-trades-examplesda-0-0e3.0a35a0612e4bc0a19ba9.js",
+          "hash": "ae7f0f3fc05a1d0fcd01",
+          "publicPath": "/content---docs-api-trading-trades-examplesda-0-0e3.0a35a0612e4bc0a19ba9.js"
         }
       ]
     },
     "32": {
       "js": [
         {
-          "file": "content---docs-api-trading-trading-referenced-15-54a.30782b92b65a5d4d7b2b.js",
-          "hash": "a842fc1adc5204871def",
-          "publicPath": "/content---docs-api-trading-trading-referenced-15-54a.30782b92b65a5d4d7b2b.js"
+          "file": "content---docs-api-trading-trading-referenced-15-54a.3c8eedb1c7f8b9111990.js",
+          "hash": "d3b0673392368d68096a",
+          "publicPath": "/content---docs-api-trading-trading-referenced-15-54a.3c8eedb1c7f8b9111990.js"
         }
       ]
     },
     "33": {
       "js": [
         {
-          "file": "content---docs-architecture-528-86f.2aa2d8fda71398309992.js",
-          "hash": "bd55ec00364eef36ced3",
-          "publicPath": "/content---docs-architecture-528-86f.2aa2d8fda71398309992.js"
+          "file": "content---docs-architecture-528-86f.aac3817d785474d0b367.js",
+          "hash": "419419168c45943bd0dc",
+          "publicPath": "/content---docs-architecture-528-86f.aac3817d785474d0b367.js"
         }
       ]
     },
     "34": {
       "js": [
         {
-          "file": "content---docs-doc-1-b-2-f-e80.56c3dfefb803d2b29fe4.js",
-          "hash": "95051cd6442c985981dc",
-          "publicPath": "/content---docs-doc-1-b-2-f-e80.56c3dfefb803d2b29fe4.js"
+          "file": "content---docs-doc-1-b-2-f-e80.abd92d6ee906133aa979.js",
+          "hash": "edf84da3cb2802d43648",
+          "publicPath": "/content---docs-doc-1-b-2-f-e80.abd92d6ee906133aa979.js"
         }
       ]
     },
     "35": {
       "js": [
         {
-          "file": "content---docs-doc-2-df-3-eaa.b3046f6796b13d9947cf.js",
-          "hash": "b54ddab738a5b9e266c0",
-          "publicPath": "/content---docs-doc-2-df-3-eaa.b3046f6796b13d9947cf.js"
+          "file": "content---docs-doc-2-df-3-eaa.a45713d8bd575f5ff1b7.js",
+          "hash": "c623a7b86e1831274ec0",
+          "publicPath": "/content---docs-doc-2-df-3-eaa.a45713d8bd575f5ff1b7.js"
         }
       ]
     },
@@ -689,90 +689,90 @@
     "37": {
       "js": [
         {
-          "file": "content---docs-introduction-architecture-9-ca-274.3a795483d78cd789f5da.js",
-          "hash": "5ad5b45b02261836762e",
-          "publicPath": "/content---docs-introduction-architecture-9-ca-274.3a795483d78cd789f5da.js"
+          "file": "content---docs-introduction-architecture-9-ca-274.3d5868c126620bf8c394.js",
+          "hash": "f0789db7cf70d4dc8975",
+          "publicPath": "/content---docs-introduction-architecture-9-ca-274.3d5868c126620bf8c394.js"
         }
       ]
     },
     "38": {
       "js": [
         {
-          "file": "content---docs-introduction-basic-principals-388-a7b.19304939edab738fa6d6.js",
-          "hash": "58e8b05a1e45496394c7",
-          "publicPath": "/content---docs-introduction-basic-principals-388-a7b.19304939edab738fa6d6.js"
+          "file": "content---docs-introduction-basic-principals-388-a7b.3aef44a318c334cf10f2.js",
+          "hash": "a97a4ff7a08a0d165674",
+          "publicPath": "/content---docs-introduction-basic-principals-388-a7b.3aef44a318c334cf10f2.js"
         }
       ]
     },
     "39": {
       "js": [
         {
-          "file": "content---docs-introduction-basic-tutorial-1-ac-f75.6320441935b549b30239.js",
-          "hash": "e8a5d1460dcfb3e987aa",
-          "publicPath": "/content---docs-introduction-basic-tutorial-1-ac-f75.6320441935b549b30239.js"
+          "file": "content---docs-introduction-basic-tutorial-1-ac-f75.7fd79b988740a52db4d4.js",
+          "hash": "3321c7625d9e6fb84593",
+          "publicPath": "/content---docs-introduction-basic-tutorial-1-ac-f75.7fd79b988740a52db4d4.js"
         }
       ]
     },
     "40": {
       "js": [
         {
-          "file": "content---docs-introduction-quick-start-572-84c.ef97138dd718228a7dcf.js",
-          "hash": "7eb1d24100443f4e35e4",
-          "publicPath": "/content---docs-introduction-quick-start-572-84c.ef97138dd718228a7dcf.js"
+          "file": "content---docs-introduction-quick-start-572-84c.02ea8f0a2b5faa8dbd0f.js",
+          "hash": "42578949f160e556628b",
+          "publicPath": "/content---docs-introduction-quick-start-572-84c.02ea8f0a2b5faa8dbd0f.js"
         }
       ]
     },
     "41": {
       "js": [
         {
-          "file": "content---docs-introduction-why-use-zinnionc-33-79f.c794f11a02f81a505392.js",
-          "hash": "f1033df381876943b0d0",
-          "publicPath": "/content---docs-introduction-why-use-zinnionc-33-79f.c794f11a02f81a505392.js"
+          "file": "content---docs-introduction-why-use-zinnionc-33-79f.41ec246316709b39a9bc.js",
+          "hash": "0ac8f9b93e70f5758529",
+          "publicPath": "/content---docs-introduction-why-use-zinnionc-33-79f.41ec246316709b39a9bc.js"
         }
       ]
     },
     "42": {
       "js": [
         {
-          "file": "content---docs-mdxce-3-7d1.679a22541776435e769b.js",
-          "hash": "065deda11e456380fb88",
-          "publicPath": "/content---docs-mdxce-3-7d1.679a22541776435e769b.js"
+          "file": "content---docs-mdxce-3-7d1.b7b1bad518709ac50d11.js",
+          "hash": "5946fd0951a970fc9844",
+          "publicPath": "/content---docs-mdxce-3-7d1.b7b1bad518709ac50d11.js"
         }
       ]
     },
     "43": {
       "js": [
         {
-          "file": "content---docs-privacy-policy-8-c-5-13f.542058a95f357745cc62.js",
-          "hash": "115c3632d221e7e57bce",
-          "publicPath": "/content---docs-privacy-policy-8-c-5-13f.542058a95f357745cc62.js"
+          "file": "content---docs-privacy-policy-8-c-5-13f.99a8ebe19c441c634a91.js",
+          "hash": "3b915dbe8fe1437170ae",
+          "publicPath": "/content---docs-privacy-policy-8-c-5-13f.99a8ebe19c441c634a91.js"
         }
       ]
     },
     "44": {
       "js": [
         {
-          "file": "content---docs-terms-of-use-0-f-8-3d3.4886c7aca743dc7c268e.js",
-          "hash": "b7fa317a41a041b758a8",
-          "publicPath": "/content---docs-terms-of-use-0-f-8-3d3.4886c7aca743dc7c268e.js"
+          "file": "content---docs-terms-of-use-0-f-8-3d3.5fea33b3a159a390bf28.js",
+          "hash": "81293df90b2d9a6c0554",
+          "publicPath": "/content---docs-terms-of-use-0-f-8-3d3.5fea33b3a159a390bf28.js"
         }
       ]
     },
     "45": {
       "js": [
         {
-          "file": "content---docs-troubleshooting-9-d-9-0bf.e322d529cddd9421ddfd.js",
-          "hash": "e889344021c086b331db",
-          "publicPath": "/content---docs-troubleshooting-9-d-9-0bf.e322d529cddd9421ddfd.js"
+          "file": "content---docs-troubleshooting-9-d-9-0bf.51a6ff7736967d1802e0.js",
+          "hash": "3079e602ab1dd21f1711",
+          "publicPath": "/content---docs-troubleshooting-9-d-9-0bf.51a6ff7736967d1802e0.js"
         }
       ]
     },
     "46": {
       "js": [
         {
-          "file": "docsMetadata---docs-431-4a2.77266f40f175397981ab.js",
-          "hash": "9e6aaf57838df98c56c5",
-          "publicPath": "/docsMetadata---docs-431-4a2.77266f40f175397981ab.js"
+          "file": "docsMetadata---docs-431-4a2.c1a7ecae2fa12b405dd5.js",
+          "hash": "e80dd8c905220655b061",
+          "publicPath": "/docsMetadata---docs-431-4a2.c1a7ecae2fa12b405dd5.js"
         }
       ]
     },
@@ -780,15 +780,15 @@
       "css": [
         {
           "file": "main.20b45c42a33f7630e9e9.css",
-          "hash": "8af2cbd83f085907ebda",
+          "hash": "5d7590cbecf5e4b036c3",
           "publicPath": "/main.20b45c42a33f7630e9e9.css"
         }
       ],
       "js": [
         {
-          "file": "main.fc2b04ec8872b7333c85.js",
-          "hash": "8af2cbd83f085907ebda",
-          "publicPath": "/main.fc2b04ec8872b7333c85.js"
+          "file": "main.eb6514c5b3eadec68300.js",
+          "hash": "5d7590cbecf5e4b036c3",
+          "publicPath": "/main.eb6514c5b3eadec68300.js"
         }
       ]
     },
@@ -831,126 +831,126 @@
     "52": {
       "js": [
         {
-          "file": "metadata---docs-api-account-accout-reference-03-e-627.d575aeac8e4088f9de67.js",
-          "hash": "5dbfa0a0e9d1ef0565d8",
-          "publicPath": "/metadata---docs-api-account-accout-reference-03-e-627.d575aeac8e4088f9de67.js"
+          "file": "metadata---docs-api-account-accout-reference-03-e-627.de81598393dec87e03e3.js",
+          "hash": "59ac57efccc4fa06e30c",
+          "publicPath": "/metadata---docs-api-account-accout-reference-03-e-627.de81598393dec87e03e3.js"
         }
       ]
     },
     "53": {
       "js": [
         {
-          "file": "metadata---docs-api-events-events-reference-792-d61.f57206c7a4c311ee2e3b.js",
-          "hash": "d4482e2cf493da8d0679",
-          "publicPath": "/metadata---docs-api-events-events-reference-792-d61.f57206c7a4c311ee2e3b.js"
+          "file": "metadata---docs-api-events-events-reference-792-d61.e47b7638a334d3af1199.js",
+          "hash": "ddcac22b6bdd3506c6ca",
+          "publicPath": "/metadata---docs-api-events-events-reference-792-d61.e47b7638a334d3af1199.js"
         }
       ]
     },
     "54": {
       "js": [
         {
-          "file": "metadata---docs-api-events-on-calculate-009-112.f37bf8850cdb195bca35.js",
-          "hash": "21ff84f754057d887623",
-          "publicPath": "/metadata---docs-api-events-on-calculate-009-112.f37bf8850cdb195bca35.js"
+          "file": "metadata---docs-api-events-on-calculate-009-112.5181976f7d558230330b.js",
+          "hash": "ed6b27f056015516dcdf",
+          "publicPath": "/metadata---docs-api-events-on-calculate-009-112.5181976f7d558230330b.js"
         }
       ]
     },
     "55": {
       "js": [
         {
-          "file": "metadata---docs-api-events-on-orderbook-778-abc.17e6a05b333b83945285.js",
-          "hash": "7206a7c571dcdb4fd958",
-          "publicPath": "/metadata---docs-api-events-on-orderbook-778-abc.17e6a05b333b83945285.js"
+          "file": "metadata---docs-api-events-on-orderbook-778-abc.e79e94ddade4fe234b67.js",
+          "hash": "4c3b000fa01e08a3f973",
+          "publicPath": "/metadata---docs-api-events-on-orderbook-778-abc.e79e94ddade4fe234b67.js"
         }
       ]
     },
     "56": {
       "js": [
         {
-          "file": "metadata---docs-api-events-on-position-change-9-a-5-731.aa8400bebbb90cc4c448.js",
-          "hash": "571a30d95ea2a2fbd67f",
-          "publicPath": "/metadata---docs-api-events-on-position-change-9-a-5-731.aa8400bebbb90cc4c448.js"
+          "file": "metadata---docs-api-events-on-position-change-9-a-5-731.afe7cc7dad659661f9c1.js",
+          "hash": "ba42a43f2eb4c3453b5f",
+          "publicPath": "/metadata---docs-api-events-on-position-change-9-a-5-731.afe7cc7dad659661f9c1.js"
         }
       ]
     },
     "57": {
       "js": [
         {
-          "file": "metadata---docs-api-events-on-tick-797-eaf.6e60e863bb663c23923b.js",
-          "hash": "2c4590761bfcd57253f8",
-          "publicPath": "/metadata---docs-api-events-on-tick-797-eaf.6e60e863bb663c23923b.js"
+          "file": "metadata---docs-api-events-on-tick-797-eaf.d78be9f08676d4e5eb85.js",
+          "hash": "79fdc723603625c10f9a",
+          "publicPath": "/metadata---docs-api-events-on-tick-797-eaf.d78be9f08676d4e5eb85.js"
         }
       ]
     },
     "58": {
       "js": [
         {
-          "file": "metadata---docs-api-events-on-trade-transaction-099-c11.0a6583cdff07c42fa720.js",
-          "hash": "0df9dc0f5f79c7a7d963",
-          "publicPath": "/metadata---docs-api-events-on-trade-transaction-099-c11.0a6583cdff07c42fa720.js"
+          "file": "metadata---docs-api-events-on-trade-transaction-099-c11.96fc22c6c4ab668cef24.js",
+          "hash": "39d56a26428cc9b7ef12",
+          "publicPath": "/metadata---docs-api-events-on-trade-transaction-099-c11.96fc22c6c4ab668cef24.js"
         }
       ]
     },
     "59": {
       "js": [
         {
-          "file": "metadata---docs-api-events-on-tradeb-61-5b8.7c6bf46bf2572eb40f12.js",
-          "hash": "3d8f6acf5e08812277ca",
-          "publicPath": "/metadata---docs-api-events-on-tradeb-61-5b8.7c6bf46bf2572eb40f12.js"
+          "file": "metadata---docs-api-events-on-tradeb-61-5b8.e99775c67a33f50229e0.js",
+          "hash": "c585d3d64bc62b7e373f",
+          "publicPath": "/metadata---docs-api-events-on-tradeb-61-5b8.e99775c67a33f50229e0.js"
         }
       ]
     },
     "60": {
       "js": [
         {
-          "file": "metadata---docs-api-functions-functions-reference-96-e-39a.7de8ae2bad05466aa585.js",
-          "hash": "dbafba2afaa876f02f92",
-          "publicPath": "/metadata---docs-api-functions-functions-reference-96-e-39a.7de8ae2bad05466aa585.js"
+          "file": "metadata---docs-api-functions-functions-reference-96-e-39a.9e169bf52bd1ac97c8e6.js",
+          "hash": "c95d57f41000372e634e",
+          "publicPath": "/metadata---docs-api-functions-functions-reference-96-e-39a.9e169bf52bd1ac97c8e6.js"
         }
       ]
     },
     "61": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-deals-31-c-5ff.d71ed4ab3e068238b11b.js",
-          "hash": "4913a6e53e0563f68914",
-          "publicPath": "/metadata---docs-api-trading-deals-31-c-5ff.d71ed4ab3e068238b11b.js"
+          "file": "metadata---docs-api-trading-deals-31-c-5ff.cd3f5ae312c5b283a8dc.js",
+          "hash": "91de591792aae3c7226c",
+          "publicPath": "/metadata---docs-api-trading-deals-31-c-5ff.cd3f5ae312c5b283a8dc.js"
         }
       ]
     },
     "62": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-deals-examples-516-dd4.5606db7ebb6257d5f3e3.js",
-          "hash": "651d032b5b899d1ca5d9",
-          "publicPath": "/metadata---docs-api-trading-deals-examples-516-dd4.5606db7ebb6257d5f3e3.js"
+          "file": "metadata---docs-api-trading-deals-examples-516-dd4.73117e1decbdfc8dd9f4.js",
+          "hash": "7d4888bf104a1efabe4d",
+          "publicPath": "/metadata---docs-api-trading-deals-examples-516-dd4.73117e1decbdfc8dd9f4.js"
         }
       ]
     },
     "63": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-enumerators-186-ce3.c8f2e3e6fe41601edf36.js",
-          "hash": "247ca46480b517bc8ebb",
-          "publicPath": "/metadata---docs-api-trading-enumerators-186-ce3.c8f2e3e6fe41601edf36.js"
+          "file": "metadata---docs-api-trading-enumerators-186-ce3.31cc9a79f522ae6a8c33.js",
+          "hash": "bf3de8c36e23a6f47bb8",
+          "publicPath": "/metadata---docs-api-trading-enumerators-186-ce3.31cc9a79f522ae6a8c33.js"
         }
       ]
     },
     "64": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-orders-168-207.50477175fb351c31adb0.js",
-          "hash": "4b3c69764c641783a504",
-          "publicPath": "/metadata---docs-api-trading-orders-168-207.50477175fb351c31adb0.js"
+          "file": "metadata---docs-api-trading-orders-168-207.9c62a233cbf3d7f9a9a0.js",
+          "hash": "04a4c2b67fd013c6c609",
+          "publicPath": "/metadata---docs-api-trading-orders-168-207.9c62a233cbf3d7f9a9a0.js"
         }
       ]
     },
     "65": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-orders-examples-539-51a.f34f6629f83879fe052b.js",
-          "hash": "65cb9cea639c619b51b5",
-          "publicPath": "/metadata---docs-api-trading-orders-examples-539-51a.f34f6629f83879fe052b.js"
+          "file": "metadata---docs-api-trading-orders-examples-539-51a.122bf3dab63075b93d85.js",
+          "hash": "be784489062e78662d0b",
+          "publicPath": "/metadata---docs-api-trading-orders-examples-539-51a.122bf3dab63075b93d85.js"
         }
       ]
     },
@@ -966,54 +966,54 @@
     "67": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-positions-examplesdb-8-b9a.fb66656154d92af14147.js",
-          "hash": "8d110f1efb35b9f5957e",
-          "publicPath": "/metadata---docs-api-trading-positions-examplesdb-8-b9a.fb66656154d92af14147.js"
+          "file": "metadata---docs-api-trading-positions-examplesdb-8-b9a.c4f5957e1e41fcca5540.js",
+          "hash": "68ed02333f7e70977b04",
+          "publicPath": "/metadata---docs-api-trading-positions-examplesdb-8-b9a.c4f5957e1e41fcca5540.js"
         }
       ]
     },
     "68": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-return-codes-7-de-715.32609db10a486b6e218c.js",
-          "hash": "15c78f0123a7710da9c3",
-          "publicPath": "/metadata---docs-api-trading-return-codes-7-de-715.32609db10a486b6e218c.js"
+          "file": "metadata---docs-api-trading-return-codes-7-de-715.a59c664200bef5bbfc33.js",
+          "hash": "75c133751ef6b96d81f1",
+          "publicPath": "/metadata---docs-api-trading-return-codes-7-de-715.a59c664200bef5bbfc33.js"
         }
       ]
     },
     "69": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-structures-6-e-0-04b.964b157893010708c2b2.js",
-          "hash": "f201b770b87c9793c87d",
-          "publicPath": "/metadata---docs-api-trading-structures-6-e-0-04b.964b157893010708c2b2.js"
+          "file": "metadata---docs-api-trading-structures-6-e-0-04b.6c5b3ade1b22d3b6fab7.js",
+          "hash": "317906b8fcbe66a6f6ab",
+          "publicPath": "/metadata---docs-api-trading-structures-6-e-0-04b.6c5b3ade1b22d3b6fab7.js"
         }
       ]
     },
     "70": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-trades-361-396.8fb6b26c25408111468e.js",
-          "hash": "7d475a590b4dd952198b",
-          "publicPath": "/metadata---docs-api-trading-trades-361-396.8fb6b26c25408111468e.js"
+          "file": "metadata---docs-api-trading-trades-361-396.cd23497b50981df9e5ec.js",
+          "hash": "e36965c5f641e1b21fb0",
+          "publicPath": "/metadata---docs-api-trading-trades-361-396.cd23497b50981df9e5ec.js"
         }
       ]
     },
     "71": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-trades-examplesf-9-b-875.d27e98fea8231e2e040b.js",
-          "hash": "14e412e553d4b85e486b",
-          "publicPath": "/metadata---docs-api-trading-trades-examplesf-9-b-875.d27e98fea8231e2e040b.js"
+          "file": "metadata---docs-api-trading-trades-examplesf-9-b-875.a1776be6688a2145ee31.js",
+          "hash": "b23f618024200f924113",
+          "publicPath": "/metadata---docs-api-trading-trades-examplesf-9-b-875.a1776be6688a2145ee31.js"
         }
       ]
     },
     "72": {
       "js": [
         {
-          "file": "metadata---docs-api-trading-trading-reference-27-b-1e3.b4dfdfc28bfc2fa4332a.js",
-          "hash": "6061ab9b892dd1718a2f",
-          "publicPath": "/metadata---docs-api-trading-trading-reference-27-b-1e3.b4dfdfc28bfc2fa4332a.js"
+          "file": "metadata---docs-api-trading-trading-reference-27-b-1e3.929f6bdb8f7fa7b35a72.js",
+          "hash": "2345b823750403c31c11",
+          "publicPath": "/metadata---docs-api-trading-trading-reference-27-b-1e3.929f6bdb8f7fa7b35a72.js"
         }
       ]
     },
@@ -1029,18 +1029,18 @@
     "74": {
       "js": [
         {
-          "file": "metadata---docs-doc-11-db-801.ad4aebd295d443a720f8.js",
-          "hash": "a2d1a78e41d5113b694a",
-          "publicPath": "/metadata---docs-doc-11-db-801.ad4aebd295d443a720f8.js"
+          "file": "metadata---docs-doc-11-db-801.4abdf61e5f274032f6c6.js",
+          "hash": "ce135e36bd27ddf834ad",
+          "publicPath": "/metadata---docs-doc-11-db-801.4abdf61e5f274032f6c6.js"
         }
       ]
     },
     "75": {
       "js": [
         {
-          "file": "metadata---docs-doc-2-c-42-acd.f96b5e6aa9d17d20052f.js",
-          "hash": "cd4571d82b2370282d28",
-          "publicPath": "/metadata---docs-doc-2-c-42-acd.f96b5e6aa9d17d20052f.js"
+          "file": "metadata---docs-doc-2-c-42-acd.84873516b5883da7e549.js",
+          "hash": "be223a7be2c7f4917258",
+          "publicPath": "/metadata---docs-doc-2-c-42-acd.84873516b5883da7e549.js"
         }
       ]
     },
@@ -1056,90 +1056,90 @@
     "77": {
       "js": [
         {
-          "file": "metadata---docs-introduction-architecture-2-ba-2ff.f3a24e84df21e175b5d4.js",
-          "hash": "a291e87873e0839ba470",
-          "publicPath": "/metadata---docs-introduction-architecture-2-ba-2ff.f3a24e84df21e175b5d4.js"
+          "file": "metadata---docs-introduction-architecture-2-ba-2ff.ea35ad8389307e60d083.js",
+          "hash": "6dc6223e28b56cceb931",
+          "publicPath": "/metadata---docs-introduction-architecture-2-ba-2ff.ea35ad8389307e60d083.js"
         }
       ]
     },
     "78": {
       "js": [
         {
-          "file": "metadata---docs-introduction-basic-principalse-51-a31.c2924280b712f1c064fd.js",
-          "hash": "b447728ebd1da855c5fb",
-          "publicPath": "/metadata---docs-introduction-basic-principalse-51-a31.c2924280b712f1c064fd.js"
+          "file": "metadata---docs-introduction-basic-principalse-51-a31.d699124adf53f2fae491.js",
+          "hash": "1e49948190ea496bf2f0",
+          "publicPath": "/metadata---docs-introduction-basic-principalse-51-a31.d699124adf53f2fae491.js"
         }
       ]
     },
     "79": {
       "js": [
         {
-          "file": "metadata---docs-introduction-basic-tutoriale-77-674.1347d1207a5d3ab2793a.js",
-          "hash": "9325f0f0edc354128769",
-          "publicPath": "/metadata---docs-introduction-basic-tutoriale-77-674.1347d1207a5d3ab2793a.js"
+          "file": "metadata---docs-introduction-basic-tutoriale-77-674.28dc1ae72a5c9fed4e4e.js",
+          "hash": "6cb8a6f3a74bf20fe19c",
+          "publicPath": "/metadata---docs-introduction-basic-tutoriale-77-674.28dc1ae72a5c9fed4e4e.js"
         }
       ]
     },
     "80": {
       "js": [
         {
-          "file": "metadata---docs-introduction-quick-start-188-0ef.30b2eaf82729bd93b7b6.js",
-          "hash": "33d46b42033c99211a83",
-          "publicPath": "/metadata---docs-introduction-quick-start-188-0ef.30b2eaf82729bd93b7b6.js"
+          "file": "metadata---docs-introduction-quick-start-188-0ef.593fcfc13f6c070e159d.js",
+          "hash": "c02cc31c4414354afa61",
+          "publicPath": "/metadata---docs-introduction-quick-start-188-0ef.593fcfc13f6c070e159d.js"
         }
       ]
     },
     "81": {
       "js": [
         {
-          "file": "metadata---docs-introduction-why-use-zinnion-7-e-8-32c.d1d16df8b36e5d0361ca.js",
-          "hash": "e50a75577fcc27756dad",
-          "publicPath": "/metadata---docs-introduction-why-use-zinnion-7-e-8-32c.d1d16df8b36e5d0361ca.js"
+          "file": "metadata---docs-introduction-why-use-zinnion-7-e-8-32c.6a0193e91644148691a2.js",
+          "hash": "39df6ce3ee994d08693c",
+          "publicPath": "/metadata---docs-introduction-why-use-zinnion-7-e-8-32c.6a0193e91644148691a2.js"
         }
       ]
     },
     "82": {
       "js": [
         {
-          "file": "metadata---docs-mdxae-9-ee9.93d65145b9433e561411.js",
-          "hash": "1a23663eb1ce55eb07cc",
-          "publicPath": "/metadata---docs-mdxae-9-ee9.93d65145b9433e561411.js"
+          "file": "metadata---docs-mdxae-9-ee9.1def9450046d5013e6cb.js",
+          "hash": "0465958f4dcf0ff0e663",
+          "publicPath": "/metadata---docs-mdxae-9-ee9.1def9450046d5013e6cb.js"
         }
       ]
     },
     "83": {
       "js": [
         {
-          "file": "metadata---docs-privacy-policy-096-bed.47f21baba3a2f3e8c3d0.js",
-          "hash": "ae32f1b713c8ffb0bd79",
-          "publicPath": "/metadata---docs-privacy-policy-096-bed.47f21baba3a2f3e8c3d0.js"
+          "file": "metadata---docs-privacy-policy-096-bed.dbe386e8c4bb6474b14f.js",
+          "hash": "1ed7db5b42799a41137a",
+          "publicPath": "/metadata---docs-privacy-policy-096-bed.dbe386e8c4bb6474b14f.js"
         }
       ]
     },
     "84": {
       "js": [
         {
-          "file": "metadata---docs-terms-of-use-1-b-7-876.b7cad68b2a8a3b843a8d.js",
-          "hash": "1c7eb5e5fe1dc5e3dab6",
-          "publicPath": "/metadata---docs-terms-of-use-1-b-7-876.b7cad68b2a8a3b843a8d.js"
+          "file": "metadata---docs-terms-of-use-1-b-7-876.350ac04c507d5b3672f2.js",
+          "hash": "4c345242d6880bf64002",
+          "publicPath": "/metadata---docs-terms-of-use-1-b-7-876.350ac04c507d5b3672f2.js"
         }
       ]
     },
     "85": {
       "js": [
         {
-          "file": "metadata---docs-troubleshooting-660-a00.1b18953c298eb86435ea.js",
-          "hash": "c5ecfcc9ae398f4d3e61",
-          "publicPath": "/metadata---docs-troubleshooting-660-a00.1b18953c298eb86435ea.js"
+          "file": "metadata---docs-troubleshooting-660-a00.a60403b283fafafba7fe.js",
+          "hash": "4187131b0ec3b86f1ee9",
+          "publicPath": "/metadata---docs-troubleshooting-660-a00.a60403b283fafafba7fe.js"
         }
       ]
     },
     "86": {
       "js": [
         {
-          "file": "runtime~main.67c7f8289a149b5f3a47.js",
-          "hash": "f33aab57e7e60bc89747",
-          "publicPath": "/runtime~main.67c7f8289a149b5f3a47.js"
+          "file": "runtime~main.d9cc7abcdfc9957d4d6b.js",
+          "hash": "d411e757c791b3567a31",
+          "publicPath": "/runtime~main.d9cc7abcdfc9957d4d6b.js"
         }
       ]
     },

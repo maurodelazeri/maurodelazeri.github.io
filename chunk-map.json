@@ -1,7 +1,7 @@
 {
   "main": [
     "/main.20b45c42a33f7630e9e9.css",
-    "/main.6cc70116321ca062394c.js"
+    "/main.fdf74515710fcbfd0698.js"
   ],
   "component---site-src-pages-index-jsc-4-f-f99": [
     "/component---site-src-pages-index-jsc-4-f-f99.84a73abf8477829e3fd3.css",
@@ -30,7 +30,7 @@
     "/component---theme-doc-legacy-page-9-e-7-ca5.73771d44850a604cec7c.js"
   ],
   "docsMetadata---docs-0-f-2-058": [
-    "/docsMetadata---docs-0-f-2-058.166ec1ddcd69f1f3caa5.js"
+    "/docsMetadata---docs-0-f-2-058.6b30c7b4caba83852bef.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
     "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
@@ -186,17 +186,17 @@
   "metadata---docs-quick-startcf-9-ad0": [
     "/metadata---docs-quick-startcf-9-ad0.3adf3abcc89c3203647d.js"
   ],
-  "content---docs-structuresfa-4-9df": [
-    "/content---docs-structuresfa-4-9df.dbcc35fa9fa8a167106a.js"
-  ],
-  "metadata---docs-structurese-0-d-a33": [
-    "/metadata---docs-structurese-0-d-a33.bc72b1541a2a9f4f35f3.js"
-  ],
   "content---docs-return-codes-1-ed-d66": [
-    "/content---docs-return-codes-1-ed-d66.68bd49179848dcdf012e.js"
+    "/content---docs-return-codes-1-ed-d66.f73b85110632ad635a03.js"
   ],
   "metadata---docs-return-codes-89-d-250": [
-    "/metadata---docs-return-codes-89-d-250.c34e93a8f3fd1dddf9c1.js"
+    "/metadata---docs-return-codes-89-d-250.63a97c6475cbbf2ce173.js"
+  ],
+  "content---docs-structuresfa-4-9df": [
+    "/content---docs-structuresfa-4-9df.5772b03f9288ccf62220.js"
+  ],
+  "metadata---docs-structurese-0-d-a33": [
+    "/metadata---docs-structurese-0-d-a33.f9359cbecf512a9e3c16.js"
   ],
   "content---docs-trades-examplesdad-68b": [
     "/content---docs-trades-examplesdad-68b.ac2a0eb5a1c8ea1056ce.js"

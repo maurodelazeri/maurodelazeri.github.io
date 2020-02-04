@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[80],{100:function(e){e.exports=JSON.parse('{"id":"trades-examples","title":"Trades Examples","sidebar_label":"Examples","description":"Examples will come in the coming weeks, let us know what you want to see first, email us at hi@zinnion.com","source":"@site/docs/trades-examples.md","permalink":"/docs/trades-examples"}')}}]);

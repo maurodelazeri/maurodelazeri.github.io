@@ -1,0 +1,253 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #111;
+	background: #fff;
+	font-size: 1em;
+	line-height: 1.4em;
+	font-family: "Dejavu Sans Mono", Courier, monospace;
+}	
+
+h1 {
+	font-size: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+h2 {
+	font-size: 1.25em;
+	margin-bottom: 0.5em;
+}
+
+h3 {
+	font-size: 1.1em;
+	margin-bottom: 0.5em;
+}
+
+img {
+	border: 1px solid #111;
+}
+
+blockquote {
+    margin: 1em 0.5em 1em 5em;
+    font-style: italic;
+}
+
+.text-dump > ul {
+	margin-left: 6vw;
+	margin-right: 5vw;
+}
+
+.text-dump > ul > li {
+	margin-bottom: 1em;
+}
+
+#nav > ul, #side > ul {
+	margin-left: 0.5em;
+	list-style-type: none;
+	font-size: 1.25em;
+}
+
+#nav > ul > li, #side > ul > li {
+	margin: 0.25em 0;
+}
+
+#nav > hr, #side > hr {
+	margin: 1em 3em 0.5em 0;
+}
+
+p {
+	margin: 1em 0.5em;
+}
+
+dt {
+	margin: 0.25em 0;
+	font-size: 1.25em;
+    font-weight: bold;
+}
+
+dd {
+	margin-left: 1em;
+}
+
+pre {
+	padding: 0 1em;
+	border: 1px solid #111;
+	line-height: 1.1em!important;
+}
+
+.container {
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: no-wrap;
+	width: 100%;
+}
+
+#nav, #side {
+	padding: 1em;
+	flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: content;
+}
+
+#nav {
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
+#side {
+	margin-right: 1em;
+	margin-top: 1em;
+	text-align: right;
+}
+
+#main {
+	margin-top: 2em;
+	padding: 1em;
+	flex-grow: 3;
+	flex-shrink: 1;
+	flex-basis: content;
+}
+
+#jumptop {
+	text-align: center;
+}
+
+#undergirder {
+	margin 1em 0;
+	padding 1em 0;
+	text-align: center;
+	font-size: 0.7em;
+	line-height: 1.1em;
+	font-style: italic;
+}
+
+.main-img > img {
+	width: 75%;
+	height: auto;
+}
+
+.news, .text-dump {
+    margin-right: 10vw;
+}
+
+.text-dump > p {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.twine > * {
+	margin-bottom: 1em;
+}
+
+.twine > * > img {
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+	height: auto;
+}
+
+.img-box {
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+	height: auto;
+}
+
+.photo-caption {
+    font-size: 0.8em;
+    font-style: italic;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+/* TODO come up with a better way of organizing dl styles */
+
+.twine > * > dl {
+	margin-left: 3em;
+}
+
+.text-dump > dl {
+	margin-left: 4.5vw;
+	margin-right: 4.5vw;
+}
+
+.contact > dl, .news > dl, .links > dl {
+	margin-bottom: 1em;
+	margin-left: 2em;
+}
+
+.news > dl > dd,
+.links > dl > dd,
+.bots > *,
+.bots > div > dl > dd {
+	margin-bottom: 1em;
+}
+
+.links > dl > dt {
+    font-weight: normal;
+}
+
+.tweet {
+	position: relative;
+	display: inline-flex;
+	padding: 0.5em;
+	border: 1px solid #111;
+	flex-direction: row;
+	flex-wrap: no-wrap;
+	align-items: flex-start;
+	width: 60%;
+}
+
+.tweet-av {
+	flex-grow: 0;
+	flex-shrink: 0;
+	flex-basis: 50px;
+}
+
+.tweet-av > img {
+	width: 100%;
+	height: auto;
+}
+
+.tweet-txt {
+	margin-left: 1em;
+	flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: content;
+	word-wrap: break-word;
+	width: 0%;
+}
+
+.tweet-head {
+	font-size: 0.8em;
+}
+
+.tweet-head > a {
+	font-style: italic;
+}
+
+.tweet-link {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+}
+
+.git-icon {
+    border: none;
+    margin-bottom: -4px;
+    height: 1em;
+    width: auto;
+}
+
+.gameboard, .eclipse {
+	border: none;
+}
+
+.gameboard tr > td > img, .eclipse tr > td > img {
+	border: none;
+	width: 36px;
+	height: auto;
+}

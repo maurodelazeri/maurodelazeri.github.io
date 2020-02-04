@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{98:function(t){t.exports=JSON.parse('{"id":"structures","title":"Structures","hide_title":true,"sidebar_label":"Structures","description":"## Structures","source":"@site/docs/structures.md","permalink":"/docs/structures"}')}}]);

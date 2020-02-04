@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[62],{68:function(e){e.exports=JSON.parse('{"id":"functions-reference","title":"Reference","sidebar_label":"Functions Reference","description":"This is the group of functions intended to provide helpers","source":"@site/docs/functions-reference.md","permalink":"/docs/functions-reference"}')}}]);
